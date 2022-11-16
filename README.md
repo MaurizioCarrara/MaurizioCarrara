@@ -3,8 +3,6 @@
 
 
 ## 🌐 Socials:
-!-[](<div class="badge-base LI-profile-badge" data-locale="it_IT" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mauriziocarraralin" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://it.linkedin.com/in/mauriziocarraralin?trk=profile-badge">Maurizio Carrara</a></div>
-              )
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mauriziocarraralin) 
 
 # 💻 Tech Stack:
