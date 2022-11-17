@@ -1,5 +1,5 @@
 # 💫 About Me:
-✈️Airfield professional<br>📊Statistical enthusiast<br>💻Self-taught coder
+✈️ Airfield professional<br>📊 Statistical enthusiast<br>💻 Self-taught coder
 
 
 ## 🌐 Socials:
