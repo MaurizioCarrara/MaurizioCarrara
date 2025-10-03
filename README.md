@@ -40,7 +40,8 @@ Used to operate in **dynamic and highly complex environments**, I combine detail
 
 ## Certifications  
 - Computing in Python3 – Georgia Institute of Technology  
-- Comp-TIA A+ 220-1001 & 220-1002 – Udemy  
+- Comp-TIA A+ 220-1001 - Udemy
+- Comp-TIA A+ 220-1002 – Udemy  
 - Certified Trainer – AIFOS  
 
 ---
