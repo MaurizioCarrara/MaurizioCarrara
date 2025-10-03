@@ -1,4 +1,4 @@
-# Maurizio Carrara – Data & Business Analyst Portfolio  
+# Maurizio Carrara – Data & Business Analyst 
 
 ## About Me  
 Professional with solid experience in the airport commercial sector, specialized in **data analysis, forecasting, and process optimization**.  
