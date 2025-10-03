@@ -23,17 +23,17 @@ Used to operate in **dynamic and highly complex environments**, I combine detail
 
 ### 🔹 Excel & VBA  
 - **KPI Dashboard in Excel**  
-  Interactive visualization of operational and financial KPIs using Power Query and VBA.  
+  Interactive visualization of operational KPIs.  
 
 ---
 
 ### 🔹 Power BI  
-
+-**STAY TUNED**
 
 ---
 
 ### 🔹 Python & Data Science  
-- **GARC - General Aviation Report Creator (only gif)**  
+- **GARC - General Aviation Report Creator (only demo gif)**  
   Python + Pandas workflow for real-time visualization of operational KPIs.  
 
 ---
