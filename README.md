@@ -1,17 +1,56 @@
-## 💫 About Me:
-✈️ Airfield professional<br>📊 Statistical enthusiast<br>💻 Self-taught coder
+# Maurizio Carrara – Data & Business Analyst Portfolio  
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mauriziocarraralin) 
-
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 👋 About Me  
+Professional with solid experience in the airport commercial sector, specialized in **data analysis, forecasting, and process optimization**.  
+I transform complex datasets into reliable decision-making tools, anticipating issues and delivering measurable results.  
+Used to operate in **dynamic and highly complex environments**, I combine detailed analysis with a systemic vision to drive innovation and efficiency.  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MaurizioCarrara&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Core Skills  
+- **Data Analysis & Forecasting**: predictive traffic models, budget & forecast preparation, KPI monitoring  
+- **Business Process Optimization**: digitalization, automation tools, tailored IT applications  
+- **Technical Tools**:  
+  - Python (Pandas, Dash, Matplotlib)  
+  - VBA (MS Excel), Knime  
+  - Power BI (DAX, dashboards, data modeling – in progress)  
+  - SAP ERP  
+- **Soft Skills**: problem solving, strategic & lateral thinking, communication (certified trainer)  
+
+---
+
+## 📂 Portfolio Projects  
+
+### 🔹 Excel & VBA  
+- **KPI Dashboard in Excel**  
+  Interactive visualization of operational and financial KPIs using Power Query and VBA.  
+
+---
+
+### 🔹 Power BI  
+
+
+---
+
+### 🔹 Python & Data Science  
+- **GARC - General Aviation Report Creator (only gif)**  
+  Python + Pandas workflow for real-time visualization of operational KPIs.  
+
+---
+
+## 📜 Certifications  
+- Computing in Python3 – Georgia Institute of Technology  
+- Comp-TIA A+ 220-1001 & 220-1002 – Udemy  
+- Certified Trainer – AIFOS  
+
+---
+
+## 🎓 Education  
+- **Introduction to Aeronautical Engineering** – Delft University of Technology (2020)  
+- **Foreign Languages and Literatures** – University of Bergamo (2010)  
+- **Electronics and Telecommunications** – I.T.I.S. Ettore Majorana (2006)  
+
+---
+
+## 📫 Contacts  
+- 🔗 [LinkedIn – Maurizio Carrara](https://linkedin.com/in/mauriziocarraralin)  
