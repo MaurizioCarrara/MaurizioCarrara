@@ -28,7 +28,7 @@ Used to operate in **dynamic and highly complex environments**, I combine detail
 ---
 
 ### 🔹 Power BI  
--**STAY TUNED**
+- **STAY TUNED**
 
 ---
 
